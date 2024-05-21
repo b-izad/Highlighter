@@ -1,3 +1,4 @@
+BEE Highlighter
 
 Description: The Highlighter Extension for Chrome allows you to highlight text on any web page and save your highlights for later reference. It is a simple yet powerful tool for students, researchers, and anyone who needs to mark important information on the web.
 
